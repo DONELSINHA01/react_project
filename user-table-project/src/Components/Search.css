@@ -1,0 +1,19 @@
+
+  .inputStyles{
+    font-size: 16px;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 16px;
+    border: 2px solid #ccc;
+    padding: 8px;
+    
+
+  }
+  .inputStyles:hover{
+    border-color: #00BFFF;
+  }
+  .inputStyles:focus,
+  .inputStyles:active{
+    border-color: #00BFFF;
+  }
+

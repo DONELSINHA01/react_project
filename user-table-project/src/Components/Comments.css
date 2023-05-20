@@ -1,0 +1,48 @@
+.user-card{
+    margin: auto;
+    margin-top: 10px;
+    width: 280px;
+    border: 1px solid rgb(250, 243, 243);
+    box-shadow: 0 0 5px gainsboro;
+    
+}
+.user-card h2{
+    margin-top: 0%;
+    text-align: center;
+    border: none;
+    background-color: #00BFFF;
+    color: rgb(255, 255, 255);
+}
+.userContent{
+    text-align: left;
+    margin: 4px;
+}
+
+
+
+.comments-container {
+    margin-top: 20px;
+  }
+  
+  .comments-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .comments-table th,
+  .comments-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .comments-table th {
+    background-color: #00BFFF;
+    font-weight: bold;
+    color:white
+  }
+  
+  .comments-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
